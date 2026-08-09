@@ -3,7 +3,7 @@ Due to personal health reasons, the project will no longer be maintained by the 
 
 ### If you forked before June 7, 2026, please pull the latest version — previous versions had an auth bypass and startup DDoS vulnerability.
 
-### Guys. Just don't use reasoning at this point. There's not a single standard that NIM follows that I could make use of. The reasoning on one model works, then I fix it for the other and the first breaks. I am currently trying to fix reasoning, but don’t count on it. 
+### Reasoning officially works! Aside from Gemma and M3, every model (that supports reasoning) works. To use reasoning, use the [optional environmental variables](#optional-environment-variables) section!
 
 
 ### NVIDIA NIM to OpenAI Proxy
