@@ -72,7 +72,7 @@ const MODEL_MAPPING = {
   'gpt-3.5': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
   'gpt-4-turbo': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'claude-3-opus': 'google/diffusiongemma-26b-a4b-it',
-  'claude-3-sonnet': 'openai/gpt-oss-20b',
+  'claude-3-sonnet': 'minimaxai/minimax-m3.1-flash',
   'gemini-pro': 'nvidia/llama-3.1-nemotron-70b-instruct', 
   'gemini-turbo': 'nvidia/llama3-chatqa-1.5-70b',
   'gpt-3.5o': 'nvidia/nemotron-3.5-lightning-30b-a3b',
@@ -87,7 +87,7 @@ const MODEL_MAPPING = {
   'google-lightest': 'meta/muse-glimmer-30b',
   'google-lighter': 'poolside/laguna-xs-2.1',
   'glm-5.3': 'z-ai/glm-5.3',
-  'glm-flash': 'z-ai/glm-5-3-flash',
+  'glm-flash': 'z-ai/glm-5.3-flash',
 
   // Vision-Modelle — nur Modelle, die erfolgreich auf Chat-Completions antworten.
   // Getestet am: 2026-09-17 — meta/llama-3.2-11b-vision-instruct: HTTP 200 ✓
