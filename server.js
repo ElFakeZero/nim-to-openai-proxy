@@ -80,14 +80,14 @@ const MODEL_MAPPING = {
   'gpt-4o': 'stepfun-ai/step-5-preview',
   'mistral': 'mistralai/mistral-large-2-instruct', 
   'mistral-turbo': 'nv-mistralai/mistral-nemo-12b-instruct',
-  'mistral-pro': 'mistralai/mistral-7b-instruct-v0.3', 
+  'mistral-pro': 'mistralai/mistral-large-4-1t-a52b', 
   'mistral-nemo': 'mistralai/mistral-nemotron',
   'mistral-fast': 'nvidia/mistral-nemo-minitron-8b-8k-instruct', 
   'google-light': 'google/gemma-4-31b-it',
   'google-lightest': 'meta/muse-glimmer-30b',
   'google-lighter': 'poolside/laguna-xs-2.1',
   'glm-5.3': 'z-ai/glm-5.3',
-  'glm-flash': 'z-ai/glm-5-3-flash',
+  'glm-flash': 'z-ai/glm-5.3-flash',
   'm3.1': 'minimaxai/minimax-m3.1-flash',
 
   // Vision-Modelle — nur Modelle, die erfolgreich auf Chat-Completions antworten.
